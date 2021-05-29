@@ -1,0 +1,22 @@
+﻿  20.cpp
+C:\Users\админ\source\repos\лаба 20\20.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\админ\source\repos\лаба 20\tree.h(129,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\админ\source\repos\лаба 20\tree.h(126): message : во время компиляции функции-члена класс шаблон "void VTree<double>::ToSearchTree(void)"
+C:\Users\админ\source\repos\лаба 20\20.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "void VTree<double>::ToSearchTree(void)"
+C:\Users\админ\source\repos\лаба 20\20.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "VTree<double>"
+C:\Users\админ\source\repos\лаба 20\tree.h(54,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\админ\source\repos\лаба 20\tree.h(51): message : во время компиляции функции-члена класс шаблон "VTree<double>::VTree(std::vector<double,std::allocator<double>>)"
+C:\Users\админ\source\repos\лаба 20\20.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "VTree<double>::VTree(std::vector<double,std::allocator<double>>)"
+C:\Users\админ\source\repos\лаба 20\tree.h(259,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\админ\source\repos\лаба 20\tree.h(250): message : во время компиляции функции-члена класс шаблон "std::vector<double,std::allocator<double>> VTree<double>::ToVector_R(VNode<T> *)"
+          with
+          [
+              T=double
+          ]
+C:\Users\админ\source\repos\лаба 20\tree.h(163): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> VTree<double>::ToVector_R(VNode<T> *)"
+          with
+          [
+              T=double
+          ]
+C:\Users\админ\source\repos\лаба 20\tree.h(266,2): warning C4018: <: несоответствие типов со знаком и без знака
+  лаба 20.vcxproj -> C:\Users\админ\source\repos\лаба 20\Debug\лаба 20.exe
